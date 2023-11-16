@@ -1,0 +1,25 @@
+.souligne {
+    text-decoration: underline;
+}
+
+.definition {
+    padding: 10px;
+    margin: 10px;
+
+    border-style: solid;
+    border-color: blue;
+    border-width: 3px;
+    border-radius: 15px;
+
+    background-color: white;
+}
+
+body {
+    background-color: rgb(168, 168, 168);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: underline;
+}
