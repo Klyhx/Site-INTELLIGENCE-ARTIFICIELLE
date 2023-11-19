@@ -12,14 +12,28 @@
     border-radius: 15px;
 
     background-color: white;
+    
 }
 
 body {
-    background-color: rgb(168, 168, 168);
+    background-image: url("../Src/Image/IA_background.jpg")
+    
 }
 
 h1 {
     text-align: center;
     margin-top: 10px;
     text-decoration: underline;
+    font-size: 50px;
+    color: #29D484;
+}
+
+
+.def {
+    border-style: solid;
+    border-color:darkcyan;
+    border-width: 2.5px;
+    border-radius: 15px;
+    
+
 }
